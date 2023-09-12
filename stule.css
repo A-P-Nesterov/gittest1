@@ -1,0 +1,23 @@
+html,
+body,
+h3 {
+    margin: 0 auto;
+}
+.holder {
+    background: #b3ab9a;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.center {
+    background: #a07b2b;
+    width: 300px;
+    height: 300px;
+    display: flex;
+}
+h3 {
+    color: rgb(25, 36, 48);
+    margin: auto;
+}
